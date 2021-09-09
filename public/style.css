@@ -1,24 +1,43 @@
-/* Main Menu Classes: */
-.page-menu {
-    border: 3px solid black;
-    border-radius: 5px;
-    padding: 8px;
-    margin: 10px;
-    width: max-content;
+/* Header classes: */
+.header {
+    padding: 30px;
+    text-align: center;
+    background: #1E4D2B;
+    color: #C8C372;
 }
 
-a.page-menu-button {
-    color:black;
-    text-decoration: none;
+.header h1 {
+    font-size: 40px;
 }
 
-a.page-menu-button:visited {
-    text-decoration: none;
+/* Navigation bar classes: */
+.navbar {
+  overflow: hidden;
+  background-color: #34373b;
+  border: 1px solid #34373b;
+  border-width: 1px 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
 }
 
-a.page-menu-button:hover {
-    text-decoration: underline;
+.navbar a {
+  display:inline-block;
+  color: white;
+  padding: 15px;
+  text-decoration: none;
 }
+
+.navbar li {
+    display: inline;
+}
+
+.navbar a:hover {
+  background-color: #cfcccc;
+  color: black;
+}
+
 
 
 /* Timeline (table) Classes */
@@ -29,7 +48,6 @@ table, th, td {
 table {
     width: 750px;
 }
-
 
 /* Dual Column Stuff */
 /* HELPFUL: https://css-tricks.com/snippets/css/complete-guide-grid/ */
