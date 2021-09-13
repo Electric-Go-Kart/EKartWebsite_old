@@ -92,3 +92,7 @@ table {
     width: 500px;
     text-align: justify;
 }
+
+.teams-columns {
+    text-align: center;
+}
