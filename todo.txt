@@ -2,7 +2,7 @@ TODO:
 
 Major:
 * Add kart and jeep pictures to "Pictures" page
-* Update pictures page link on homepage once the site is uploaded
+* Add Andie's bio
 * Add pictures and linkedin links to "Our Team" page
 
 Minor:
