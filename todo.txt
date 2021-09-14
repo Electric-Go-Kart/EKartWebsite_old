@@ -1,9 +1,12 @@
 TODO:
 
 Major:
+* Add kart and jeep pictures to "Pictures" page
 * Update pictures page link on homepage once the site is uploaded
+* Add pictures and linkedin links to "Our Team" page
 
 Minor:
 * fix uneven vertical alignment of headers ("Advisor" out of line w/ "Electrical Engineering" and "Computer Engineering")
 * improve layout of "Our Team" page
 * highlight current page selection in navbar
+* add "last updated" date and site version number to bottom navbar
