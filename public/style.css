@@ -76,17 +76,9 @@ table {
 }
 
 /* Other Classes: */
-.paragraph-box {
-    border: 5px dotted green;
-    border-radius: 10px;
-    padding: 5px;
-    margin: 25px;
-    width: 30%;
-    text-align: center;
-}
 
 .team-member-box {
-    border: 5px solid red;
+    border: 5px;
     padding: 5px;
     margin: 10px;
     width: 500px;
