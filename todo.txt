@@ -1,4 +1,9 @@
 TODO:
+
+Major:
+* Update pictures page link on homepage once the site is uploaded
+
+Minor:
 * fix uneven vertical alignment of headers ("Advisor" out of line w/ "Electrical Engineering" and "Computer Engineering")
 * improve layout of "Our Team" page
 * highlight current page selection in navbar
