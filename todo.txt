@@ -1,0 +1,4 @@
+TODO:
+* fix uneven vertical alignment of headers ("Advisor" out of line w/ "Electrical Engineering" and "Computer Engineering")
+* improve layout of "Our Team" page
+* highlight current page selection in navbar
