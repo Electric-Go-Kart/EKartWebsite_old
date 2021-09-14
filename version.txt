@@ -1,2 +1,2 @@
-Version: 1.0
+Version: 1.0.1
 Date of release: 9/14/21
