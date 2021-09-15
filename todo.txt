@@ -1,7 +1,6 @@
 TODO:
 
 Major:
-* Add kart and jeep pictures to "Pictures" page
 * Add Andie's bio
 * Add pictures and linkedin links to "Our Team" page
 
