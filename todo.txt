@@ -1,7 +1,6 @@
 TODO:
 
 Major:
-* Add Andie's bio
 * Add pictures and linkedin links to "Our Team" page
 
 Minor:
