@@ -1,7 +1,0 @@
-Version: 1.0.2
-Date of release: 9/14/21
-
-
-v1.0 (9/13/21): Initial release
-v1.0.1 (9/14/21): Added kart pictures
-v1.0.2 (9/14/21): Updated file structure and removed .js files
