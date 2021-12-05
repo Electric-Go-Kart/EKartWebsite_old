@@ -55,7 +55,11 @@ table, th, td {
 }
 
 table {
-    width: 750px;
+    width: 1000px;
+}
+
+td:first-child {
+    width: 100px;
 }
 
 /* Dual Column Stuff */
