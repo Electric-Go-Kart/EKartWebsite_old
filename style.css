@@ -58,9 +58,12 @@ table {
     width: 1000px;
 }
 
+/* Set date column width */
 td:first-child {
     width: 100px;
 }
+
+
 
 /* Dual Column Stuff */
 /* HELPFUL: https://css-tricks.com/snippets/css/complete-guide-grid/ */
